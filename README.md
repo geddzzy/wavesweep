@@ -1,10 +1,13 @@
 # WaveSweep - Offline Wireless Security Auditor
+
+```
 __        __              ____                         
 \ \      / /_ ___   _____/ ___|_      _____  ___ _ __  
  \ \ /\ / / _` \ \ / / _ \___ \ \ /\ / / _ \/ _ \ '_ \ 
   \ V  V / (_| |\ V /  __/___) \ V  V /  __/  __/ |_) |
    \_/\_/ \__,_| \_/ \___|____/ \_/\_/ \___|\___| .__/ 
                                                 |_|    
+``` 
 
 WaveSweep is a Python-based wireless security auditing tool that operates 100% offline. Designed for security professionals, security engineers, and network administrators, it provides comprehensive wireless network analysis and reporting without cloud dependencies.
 
@@ -109,6 +112,6 @@ Contributions are welcome! Please open an issue or submit a pull request.
 This project is licensed under the MIT License.
 
 **Author:** geddzzy 
-**Copyright ©** 2025 [geddzzy]
+**Copyright ©** 2025 geddzzy
 
 All rights reserved.
